@@ -8,3 +8,5 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=braweria&theme=dark&layout=compact&hide=php)
 ![](https://github-readme-stats.vercel.app/api?username=braweria&theme=dark&show_icons=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/wakatime?username=Braweria&range=all_time&theme=dark)
