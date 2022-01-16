@@ -7,10 +7,9 @@
 
 
 
-- 🔭 I’m currently working on [a Parkasaurus wikia page](https://github.com/Braweria/parkapedia)
+- 🔭 I’m currently working on probably different projects at once
 - 🌱 I’m currently learning <strong>TypeScript</strong>
-- 📫 How to reach me **w.mielcarek@braweria.de**
-- ⚡ Fun fact **My logo is not a wolf, it's a maned wolf. A maned wolf is its own species!**
+- ⚡ Fun fact: **My logo is not a wolf, it's a maned wolf. A maned wolf is its own species!**
 
 <p> <img src="https://komarev.com/ghpvc/?username=braweria&label=Profile%20views&color=db654b&style=flat-square" alt="braweria" /></p>
 <h3 align="left">Connect with me:</h3>
