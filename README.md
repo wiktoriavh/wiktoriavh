@@ -17,13 +17,9 @@
 <a href="https://twitter.com/braweria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="braweria" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/wiktoria-mielcarek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wiktoria-mielcarek" height="30" width="40" /></a>
 </p>
-<p align="left"> <a href="https://twitter.com/braweria" target="blank"><img src="https://img.shields.io/twitter/follow/braweria?logo=twitter&style=for-the-badge" alt="braweria" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=braweria&show_icons=true&theme=dark&locale=en&layout=compact" alt="braweria" /></p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/D1D85QWKJ"> <img src="https://ko-fi.com/img/githubbutton_sm.svg" height="50" width="210" alt="braweria" /></a></p>
-
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Braweria&range=all_time&theme=dark" alt="braweria" /></p>
