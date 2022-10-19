@@ -8,7 +8,7 @@
 
 
 - 🔭 I’m currently working on probably different projects at once
-- 🌱 I’m currently learning <strong>TypeScript</strong>
+- 🌱 I want to learn <strong>Go</strong>
 - ⚡ Fun fact: **My logo is not a wolf, it's a maned wolf. A maned wolf is its own species!**
 
 <p> <img src="https://komarev.com/ghpvc/?username=braweria&label=Profile%20views&color=db654b&style=flat-square" alt="braweria" /></p>
