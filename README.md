@@ -9,7 +9,7 @@
 	</thead>
 	<tbody>
 		<tr>
-			<td><img align="left" src="https://github-readme-stats.vercel.app/api?username=braweria&show_icons=true&theme=dark&locale=en" alt="braweria" /></td>
+			<td><img align="left" src="https://github-readme-stats.vercel.app/api?username=wiktoriavh&show_icons=true&theme=dark&locale=en" alt="braweria" /></td>
 		</tr>
 	</tbody>
 </table>
