@@ -1,29 +1,32 @@
-<h1 align="center">Hi there 👋, I'm Wiktoria</h1>
-<h2 align="center">A passionate frontend developer from Germany</h2>
+# Moin, I'm Wiktoria
 
-<table>
-	<thead>
-		<tr>
-			<th>🚀 GitHub Stats</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td><img align="left" src="https://github-readme-stats.vercel.app/api?username=wiktoriavh&show_icons=true&theme=dark&locale=en" alt="braweria" /></td>
-		</tr>
-	</tbody>
-</table>
+When I'm not tied up with work or other stuff, you'll often find me hanging out with the web development community. I am moderating the community and also started out hosting events called "Community Talks" for developers to participate in as either speakers or antendees. Anyone is welcome from any level.
 
+https://community-talks.dev  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wiktoriavh&repo=community-talks)](https://github.com/anuraghazra/github-readme-stats)
 
+I'm all about writing clean code, organizing things just right, and making sure it's easy for anyone to read and maintain. You'll usually catch me tinkering with TypeScript, React, Vitest, Qwik, Jotai, and basically anything that catches my eye in the tech world. I like trying new things out and testing them out for myself, like Svelte and Alpine.js for example.
 
-- 🔭 I’m currently working on Community Talks
-- 🌱 I am learning <strong>Qwik and Builder.io</strong> at the moment
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wiktoriavh&repo=learn-web-dev-svelte)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wiktoriavh&repo=ask-good-questions)](https://github.com/anuraghazra/github-readme-stats)
 
-<p> <img src="https://komarev.com/ghpvc/?username=braweria&label=Profile%20views&color=db654b&style=flat-square" alt="" /></p>
+One thing I'm really passionate about is web accessibility. I believe everyone should have access to the web, and I'm designing and develolping websites that are inclusive for everyone. I also make sure to test often, so that my code is rock-solid.
 
-<h3 align="left"><a href="https://www.linkedin.com/in/wiktoria-vh/" target="blank">Connect with me on LinkedIn</a></h3>
+[Certificate: WAI0.1x: Introduction to Web Accessibility](https://courses.edx.org/certificates/bcc430dc778c4448996b0d041051b49c)
+
+I also love attending developer conferences, you will catch me most often in a conference hosted by GitNation, say hi if you see me!
+
+If you want to connect, you can go to my LinkedIn profile and send me a network request. 
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/wiktoria-vh/)
+
+I also build some cool stuff for the community, and if you like any of it and want to support me, you can throw some dabloons my way.
+
+[![Support me on Ko-Fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D85QWKJ)
 
 ---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/D1D85QWKJ" title="Support me on Ko-Fi"> <img src="https://ko-fi.com/img/githubbutton_sm.svg" height="50" width="210" alt="braweria" /></a></p>
+![Wiktoria's GitHub stats](https://github-readme-stats.vercel.app/api?username=wiktoriavh&show_icons=true&theme=dark&locale=en)
+
+![](https://komarev.com/ghpvc/?username=braweria&label=Profile%20views&color=db654b&style=flat-square)
+
