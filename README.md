@@ -1,9 +1,6 @@
 # Moin, I'm Wiktoria
 
-When I'm not tied up with work or other stuff, you'll often find me hanging out with the web development community. I am moderating the community and also started out hosting events called "Community Talks" for developers to participate in as either speakers or antendees. Anyone is welcome from any level.
-
-https://community-talks.dev  
-[![Community Talks Repo](https://github-readme-stats.vercel.app/api/pin/?username=wiktoriavh&repo=community-talks&theme=radical&locale=en)](https://github.com/wiktoriavh/community-talks)
+When I'm not tied up with work or other stuff, you'll often find me hanging out with the web development community.
 
 I'm all about writing clean code, organizing things just right, and making sure it's easy for anyone to read and maintain. You'll usually catch me tinkering with TypeScript, React, Vitest, Qwik, Jotai, and basically anything that catches my eye in the tech world. I like trying new things out and testing them out for myself, like Svelte and Alpine.js for example.
 
